@@ -24,7 +24,6 @@ Dependency - An external mechanism a Capability uses to fulfil meaning.
 Actors exist at the level where meaning matters.
 Capabilities exist at the level where mechanics matter.
 
-
 # The Evolutionary Model of Actors
 
 Entropy is the natural drift that pulls Actors away from their Purpose by degrading their Capabilities and eroding their Contracts over time.
