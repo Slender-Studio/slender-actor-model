@@ -3,9 +3,9 @@ A universal ontological framework for modelling any system.
 
 ## Definitions
 <p>
-  Actor — a unit defined by a Contract, expressing volatile Capabilities, whose Purpose in a system is realised through interaction.
-  Contract — the explicit, unambiguous specification of an Actor’s guaranteed behaviour; the boundary defining what the system may rely on from the Actor. The Contract functions as the semantic‑mechanical membrane: shaped by context, expressed as mechanical guarantees, and participating in a system as the basis for whatever Purpose interaction realises.
-  Purpose — the functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in context.
+  Actor — a unit defined by a Contract, expressing volatile Capabilities, whose Purpose in a system is realised through interaction.<br/>
+  Contract — the explicit, unambiguous specification of an Actor’s guaranteed behaviour; the boundary defining what the system may rely on from the Actor. The Contract functions as the semantic‑mechanical membrane: shaped by context, expressed as mechanical guarantees, and participating in a system as the basis for whatever Purpose interaction realises.<br/>
+  Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
   Capability — The mechanical means by which an Actor fulfils its Purpose; a volatile, lower‑level Actor whose function realises some part of the higher‑level Actor’s Contract.<br/>
   Problem — A genuine need or deficiency that requires a change in meaning or mechanics.<br/>
   Mechanics — The tools, dependencies, and behaviours used to realise meaning.<br/>
@@ -15,12 +15,12 @@ A universal ontological framework for modelling any system.
   Relationship — When a Capability of one Actor depends on the Purpose guaranteed by another Actor’s Contract.<br/>
   Entropy — The loss of an Actor's Capability.<br/>
   Obsolescence — The loss of an Actor's Purpose.<br/>
-  Interpretation - the external perception of an Actor's Purpose; does not define an Actor's Purpose.<br/>
+  Interpretation — an observer’s perception of an Actor’s Purpose; it reflects the observer’s model, not the system’s ontology.<br/>
   Environmental Drift — a change in Interpretation, not Purpose.<br/>
   Semantic Drift — Slow, unintentional change in an Actor’s Purpose as defined by the system.<br/>
   Decay — Accumulation of entropy within an Actor’s Capabilities.<br/>
   Renewal — Intentional mechanical change to restore or improve Capabilities.<br/>
-  Shock — A sudden collapse of multiple Capabilities that prevents an Actor from upholding its Contract.
+  Shock — A sudden collapse of multiple Capabilities that prevents an Actor from upholding its Contract.<br/>
   Noise — Activity from Contracts that outlive their Purpose.
 </p>
 
@@ -43,14 +43,15 @@ A universal ontological framework for modelling any system.
   Purpose is the function that justifies an Actor’s inclusion in the system.<br/>
   The absence of understanding does not imply the absence of Purpose.<br/>
   Integration guarantees Purpose: when an Actor is incorporated into a system, the system necessarily realises a Purpose for it based on its Contract.<br/>
-  Instability converts Purpose into Noise: when a system changes and interactions destabilise, the system ceases to realise Purpose from the Actor’s Contract, and the Actor’s remaining activity manifests as Noise.
+  Instability converts Purpose into Noise: when a system changes and interactions destabilise, the system ceases to realise Purpose from the Actor’s Contract, and the Actor’s remaining activity manifests as Noise.<br/>
+  By defining an Actor’s Contract and designing the interactions in which it participates, a system can be constructed that reliably realises a particular Purpose from that Actor.
 </p>
 
-## The most important rule of all
+## Ethical Extensions
 
-A person’s value is not defined by any system.
-Purpose is a system’s interpretation; value is inherent.
+Personhood — an ontological status distinct from Actorhood. A Person may participate in systems as an Actor, but their intrinsic value is not contingent on any system‑defined Purpose. Personhood may be conferred upon humans or any other beings — biological, artificial, or otherwise‑recognised as bearers of inherent value.
 
+-------------------
 
 
 -- Work in Progress --
