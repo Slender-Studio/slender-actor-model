@@ -1,24 +1,27 @@
 # The Slender Actor Model
-A cross-discipline ontological framework for modelling stable semantic systems.
-
-<p>Within a system, an Actor is a unit of stable Purpose protected by a Contract and realised through volatile Capabilities.</p>
+A universal ontological framework for modelling any system.
 
 ## Definitions
 <p>
-  Purpose - The unambiguous reason an Actor exists within a system; what the Actor represents or guarantees.<br/>
-  Contract - Expresses the Actor's Purpose in mechanical form; what an Actor provides to the system.<br/>
-  Capabilities - How an Actor fulfils its Purpose mechanically.<br/>
-  Problem - A genuine need or deficiency that requires a change in meaning or mechanics.<br/>
-  Mechanics - The tools, dependencies, and behaviours used to realise meaning.<br/>
-  Semantic Change - A change to what the Actor means or guarantees.<br/>
-  Mechanical Change - A change to how the Actor fulfils its Purpose.<br/>
-  Dependency - An external Actor a Capability uses to fulfil its Purpose.<br/>
-  Relationship – When a Capability of one Actor depends on the Purpose guaranteed by another Actor’s Contract.<br/>
-  Entropy - The loss of an Actor's Capability.<br/>
-  Obsolescence - The loss of an Actor's Purpose.<br/>
-  Drift — Slow, unintentional semantic change in an Actor’s Purpose or Contract.<br/>
+  Actor — a unit defined by a Contract, expressing volatile Capabilities, whose Purpose in a system is realised through interaction.
+  Contract — the explicit, unambiguous specification of an Actor’s guaranteed behaviour; the boundary defining what the system may rely on from the Actor. The Contract functions as the semantic‑mechanical membrane: shaped by context, expressed as mechanical guarantees, and participating in a system as the basis for whatever Purpose interaction realises.
+  Purpose — the functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in context.
+  Capability — The mechanical means by which an Actor fulfils its Purpose; a volatile, lower‑level Actor whose function realises some part of the higher‑level Actor’s Contract.<br/>
+  Problem — A genuine need or deficiency that requires a change in meaning or mechanics.<br/>
+  Mechanics — The tools, dependencies, and behaviours used to realise meaning.<br/>
+  Semantic Change — A change to what the Actor means or guarantees.<br/>
+  Mechanical Change — A change to how the Actor fulfils its Purpose.<br/>
+  Dependency — An external Actor a Capability uses to fulfil its Purpose.<br/>
+  Relationship — When a Capability of one Actor depends on the Purpose guaranteed by another Actor’s Contract.<br/>
+  Entropy — The loss of an Actor's Capability.<br/>
+  Obsolescence — The loss of an Actor's Purpose.<br/>
+  Interpretation - the external perception of an Actor's Purpose; does not define an Actor's Purpose.<br/>
+  Environmental Drift — a change in Interpretation, not Purpose.<br/>
+  Semantic Drift — Slow, unintentional change in an Actor’s Purpose as defined by the system.<br/>
   Decay — Accumulation of entropy within an Actor’s Capabilities.<br/>
-  Renewal — Intentional mechanical change to restore or improve Capabilities.
+  Renewal — Intentional mechanical change to restore or improve Capabilities.<br/>
+  Shock — A sudden collapse of multiple Capabilities that prevents an Actor from upholding its Contract.
+  Noise — Activity from Contracts that outlive their Purpose.
 </p>
 
 ## Rules
@@ -31,10 +34,43 @@ A cross-discipline ontological framework for modelling stable semantic systems.
   A Capability is an Actor at a lower level of abstraction.<br/>
   An Actor is a Capability at a higher level of abstraction.<br/>
   Meaning is evaluated at the abstraction level where the Actor operates.<br/>
-  An Actor is any system whose Purpose is meaningful at the abstraction level being analysed.
+  An Actor is any system whose Purpose is meaningful at the abstraction level being analysed.<br/>
+  Purpose is defined by the system, not by the observer.<br/>
+  When Purpose changes, the Contract must be checked for semantic alignment.<br/>
+  When Capabilities change, the Contract must be checked for expressive accuracy.<br/>
+  Persistent Contract violations may force the system to reinterpret an Actor’s Purpose.<br/>
+  Purpose arises from system‑level function, not from internal intention.<br/>
+  Purpose is the function that justifies an Actor’s inclusion in the system.<br/>
+  The absence of understanding does not imply the absence of Purpose.<br/>
+  Integration guarantees Purpose: when an Actor is incorporated into a system, the system necessarily realises a Purpose for it based on its Contract.<br/>
+  Instability converts Purpose into Noise: when a system changes and interactions destabilise, the system ceases to realise Purpose from the Actor’s Contract, and the Actor’s remaining activity manifests as Noise.
 </p>
 
-# -- Work in Progress --
+## The most important rule of all
+
+A person’s value is not defined by any system.
+Purpose is a system’s interpretation; value is inherent.
+
+
+
+-- Work in Progress --
+
+
+System Imperative (system‑level Purpose)
+
+System Self‑Model (how the system interprets itself)
+
+Reinforcement (feedback loops)
+
+Continuity (identity across change)
+
+Load (demand on Capabilities)
+
+Alignment (Contract–Capability–Purpose coherence)
+
+Emergent Function (system‑level behaviour)
+
+
 
 ## Core
 
