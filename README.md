@@ -3,11 +3,24 @@ A universal ontological framework for modelling any system.
 
 ## Definitions
 <p>
+  Actor — a unit defined by a boundary that expresses volatile mechanics, whose meaning in a system is realised through interaction.<br/>
+  Contract — the functional guarantees an Actor is shaped to express through the Actor’s boundary, and other Actors may depend on them during interaction.<br/>
+  Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
+  Capability — the volatile mechanical means by which an Actor fulfils its Purpose; a lower‑level Actor whose function realises some part of a higher‑level Actor’s Contract.<br/>
+  System - a stable pattern of interactions.
+  Problem — a genuine deficiency or mismatch between an Actor’s realised role and the system’s needs, prompting a change in interpretation, mechanics, or system structure.<br/>
+
+</p>
+
+## Old Definitions
+<p>
   Actor — a unit defined by a Contract, expressing volatile Capabilities, whose Purpose in a system is realised through interaction.<br/>
   Contract — the explicit, unambiguous specification of an Actor’s guaranteed behaviour; the boundary defining what the system may rely on from the Actor. The Contract functions as the semantic‑mechanical membrane: shaped by context, expressed as mechanical guarantees, and participating in a system as the basis for whatever Purpose interaction realises.<br/>
   Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
   Capability — The mechanical means by which an Actor fulfils its Purpose; a volatile, lower‑level Actor whose function realises some part of the higher‑level Actor’s Contract.<br/>
   Problem — A genuine need or deficiency that requires a change in meaning or mechanics.<br/>
+
+
   Mechanics — The tools, dependencies, and behaviours used to realise meaning.<br/>
   Semantic Change — A change to what the Actor means or guarantees.<br/>
   Mechanical Change — A change to how the Actor fulfils its Purpose.<br/>
@@ -56,12 +69,30 @@ Personhood — an ontological status distinct from Actorhood. A Person may parti
 
 -- Work in Progress --
 
+
+Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
+  
+
+
+Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
+(Meaning is undefined)
+
+
+
+Actor — a persistent semantic-mechanical boundary that maintains its identity across interactions.
+Contract - the semantic-mechanical boundary of the Actor; the set of functional guarantees an Actor is shaped to express, which other Actors may depend on when interacting with it.
+Meaning — the semantic role an Actor acquires within a system through interaction.
+
+
+
+
+
 Contract - the set of functional guarantees an Actor is shaped to express, which other Actors may depend on when interacting with it.
+
 
 *** A Contract is the set of functional guarantees an Actor is shaped to express, which other Actors can depend on. ***
 
 
-A system is a stable pattern of interactions.
 An Actor’s Purpose is the functional contribution it makes to that pattern.
 A Contract is shaped by the interactions that form stable, system‑relevant patterns.
 A Contract is the set of functional roles an Actor can reliably express, shaped by the stable interaction‑patterns it participates in.
