@@ -56,6 +56,32 @@ Personhood — an ontological status distinct from Actorhood. A Person may parti
 
 -- Work in Progress --
 
+Contract - the set of functional guarantees an Actor is shaped to express, which other Actors may depend on when interacting with it.
+
+*** A Contract is the set of functional guarantees an Actor is shaped to express, which other Actors can depend on. ***
+
+
+A system is a stable pattern of interactions.
+An Actor’s Purpose is the functional contribution it makes to that pattern.
+A Contract is shaped by the interactions that form stable, system‑relevant patterns.
+A Contract is the set of functional roles an Actor can reliably express, shaped by the stable interaction‑patterns it participates in.
+
+
+Missing Concept		Why It Matters
+System			Defines the arena in which Purpose exists
+Interaction		Mechanism of Purpose realisation
+Context			Shapes Contract semantics
+Boundary		Distinguishes Actor from environment
+State			Enables entropy, decay, renewal
+Guarantee		Core of Contract semantics
+Inclusion		Explains how Actors join systems
+Failure			Unifies Shock, Entropy, Obsolescence
+Emergence		Explains how Purpose arises
+Observer		Grounds Interpretation
+
+
+System Boundary Selection rules?
+
 
 System Imperative (system‑level Purpose)
 
