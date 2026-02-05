@@ -1,16 +1,42 @@
 # The Slender Actor Model
-A universal ontological framework for modelling any system.
+A universal ontological framework for modelling any system.a
 
-## Definitions
+## Definitions of Primitives
 <p>
-  Actor — a unit defined by a boundary that expresses volatile mechanics, whose meaning in a system is realised through interaction.<br/>
-  Contract — the functional guarantees an Actor is shaped to express through the Actor’s boundary, and other Actors may depend on them during interaction.<br/>
-  Purpose — the single functional role an Actor realises within a system through interaction; an emergent, system‑defined function of the Actor’s Contract in that context.<br/>
-  Capability — the volatile mechanical means by which an Actor fulfils its Purpose; a lower‑level Actor whose function realises some part of a higher‑level Actor’s Contract.<br/>
-  System - a stable pattern of interactions.
-  Problem — a genuine deficiency or mismatch between an Actor’s realised role and the system’s needs, prompting a change in interpretation, mechanics, or system structure.<br/>
-
+  Actor — A unit defined by an intrinsic boundary that expresses volatile mechanics.<br/>
+  System — a stable pattern of interactions among Actors.<br/>
+  Contract — the intrinsic, exhaustive, and system‑agnostic set of functional guarantees an Actor’s boundary has been shaped to express, on which other Actors may depend during interaction.<br/>
+  Capability — a volatile mechanical means by which an Actor fulfils its Contract.<br/>
+  Purpose — the single functional role an Actor emerges into within a System, defined by how the System makes use of the Actor’s Contract.<br/>
+  Problem — a mismatch between an Actor’s realised Purpose and the System’s needs.<br/>
+  Semantic Change — a change to an Actor’s Contract or Purpose in response to a Problem.<br/>
+  Mechanical Change — a change to an Actor’s Capabilities in response to a Problem.<br/>
+  Dependency — a Capability’s reliance on an external Actor’s Contract.<br/>
+  Interpretation — an observer’s perception of an Actor’s Purpose; it reflects the observer’s model, not the system’s ontology.<br/>
+  Environmental Drift — a change in Interpretation, not Purpose.<br/>
+  Semantic Drift — the slow, unintentional change in an Actor’s Purpose as defined by the System.<br/>
+  Obsolescence — the loss of an Actor’s Purpose within a System.<br/>
+  Noise — the activity of Contracts that outlive their Purpose.<br/>
+  Entropy — the slow mechanical degradation of a Capability.<br/>
+  Decay — the accumulation of Entropy to the point of Capability failure.<br/>
+  Shock — the sudden collapse of one or more Capabilities.<br/>
+  Renewal — an intentional mechanical change to restore or improve Capabilities.<br/>
+  Personhood — an ontological status distinct from Actorhood, where a Person's intrinsic value is independent of any system‑defined Purpose.
 </p>
+
+## Rules
+<p>
+  All change is problem‑driven.<br/>
+  A Problem describes a need, not a solution; a solution describes mechanics, not meaning.<br/>
+  A Capability may itself be an Actor, but this does not contribute to the identity of the Actor that uses it.<br/>
+  The absence of understanding does not imply the absence of Purpose.<br/>
+  By defining an Actor’s Contract and designing the interactions in which it participates, a system can be constructed that reliably realises a particular Purpose from that Actor.
+</p>
+
+
+
+
+-------------------
 
 ## Old Definitions
 <p>
@@ -37,7 +63,7 @@ A universal ontological framework for modelling any system.
   Noise — Activity from Contracts that outlive their Purpose.
 </p>
 
-## Rules
+## Old Rules
 <p>
   All change is problem‑driven.<br/>
   A Problem describes a need, not a Solution.<br/>
@@ -63,8 +89,6 @@ A universal ontological framework for modelling any system.
 ## Ethical Extensions
 
 Personhood — an ontological status distinct from Actorhood. A Person may participate in systems as an Actor, but their intrinsic value is not contingent on any system‑defined Purpose. Personhood may be conferred upon humans or any other beings — biological, artificial, or otherwise‑recognised as bearers of inherent value.
-
--------------------
 
 
 -- Work in Progress --
