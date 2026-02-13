@@ -15,7 +15,7 @@ An intentionally minimal, pattern‑first, universal meta‑ontology for modelli
 - Mechanical Change — the modification of an Actor’s Capabilities in response to a Problem.
 - Dependency — a Capability’s mechanical reliance on an external Actor’s Contract.
 - Interpretation — an observer’s perception of an Actor’s Purpose; it reflects the observer’s model, not a given System’s ontology.
-- Environmental Drift — a change in Interpretation, not Purpose; may contribute to Semantic Drift when Interpretation influences a given System’s pattern of Interactions.
+- Observational Drift — a change in Interpretation, not Purpose; may contribute to Semantic Drift when Interpretation influences a given System’s pattern of Interactions.
 - Semantic Drift — a change in an Actor’s Purpose within a given System caused by changes in that System’s pattern of Interactions, which may lead to a Problem.
 - Obsolescence — the loss of an Actor’s Purpose within a given System.
 - Noise — the continued operation of an Actor’s Capabilities, fulfilling the Actor’s Contract after the Actor’s Purpose is no longer realised in a given System.
