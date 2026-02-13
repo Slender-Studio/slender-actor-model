@@ -45,7 +45,7 @@ This is a Dependency.
 An observer may interpret a Feather’s Purpose as “display” due to colouration, even when the Bird uses it for insulation.
 Interpretation reflects the observer’s model, not the System’s ontology.
 
-### Environmental Drift
+### Observational Drift
 Seasonal changes alter how observers interpret the Feather (e.g., “fluffed for warmth”).
 Interpretation shifts, but Purpose does not.
 
